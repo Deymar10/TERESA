@@ -3,10 +3,12 @@
 
 body {
 	font-family: 'Indie Flower', cursive !important;
-  background: #FDE3A7;
+	background-image: url('https://img.freepik.com/fotos-premium/globos-rosas-dorados-sobre-fondo-rosa_567739-6280.jpg');
+	background-size: cover;
+	background-position: center;
 	margin: 0px;
 	padding: 0px;
-}
+  }
 
 ::selection {
 	background: transparent;
@@ -27,7 +29,7 @@ h4 {
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	width: 300px;
+	width: 400px;
 	height: 400px;
 	background: #e0e1dc;
 	transform-style: preserve-3d;
